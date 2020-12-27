@@ -47,25 +47,16 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr cL๏ЙIЙG
-           ▄︻┻═┳一 ♥️K๏MąIL-KђąЙ-๏FFIcIąL♥️----------🔴
-           ▄︻┻═┳一 ♥️♥️ K๏MąIL - cL๏Йєr  ♥️♥️----🔴🔴
-           ▄︻┻═┳一    💪💪PAPPU-BACHA💪💪   🔴🔴
-           ▄︻┻═┳一 ---- FєєL ┼ђє P๏Щєr   --------🔴🔴
+logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼SHAFO_PROGRAMAR
+           ▄︻┻═┳一 ♥️SHAFO_PROGRAMAR♥️----------🔴
+           ▄︻┻═┳一 ♥️♥️ SHAFO_PROGRAMAR ♥️♥️----🔴🔴
+           ▄︻┻═┳一    💪💪SHAFO_PROGRAMAR💪💪   🔴🔴
+           ▄︻┻═┳一 ---- SHAFO_PROGRAMAR   --------🔴🔴
 	          ЩєLc๏Mє ┼๏ ЦЙLIMI┼єđ cL๏ЙIЙG
   
- ██ ▄█▀ ▒█████   ███▄ ▄███▓ ▄▄▄       ██▓ ██▓    
- ██▄█▒ ▒██▒  ██▒▓██▒▀█▀ ██▒▒████▄    ▓██▒▓██▒    
-▓███▄░ ▒██░  ██▒▓██    ▓██░▒██  ▀█▄  ▒██▒▒██░    
-▓██ █▄ ▒██   ██░▒██    ▒██ ░██▄▄▄▄██ ░██░▒██░    
-▒██▒ █▄░ ████▓▒░▒██▒   ░██▒ ▓█   ▓██▒░██░░██████▒
-▒ ▒▒ ▓▒░ ▒░▒░▒░ ░ ▒░   ░  ░ ▒▒   ▓▒█░░▓  ░ ▒░▓  ░
-░ ░▒ ▒░  ░ ▒ ▒░ ░  ░      ░  ▒   ▒▒ ░ ▒ ░░ ░ ▒  ░
-░ ░░ ░ ░ ░ ░ ▒  ░      ░     ░   ▒    ▒ ░  ░ ░   
-░  ░       ░ ░         ░         ░  ░ ░      ░  ░
                                                  
-               WhatsApp: 03124788959
-                        KOMAIL
+               snap:br35308
+                        
                      ▇◤▔▔▔▔▔▔▔◥▇
                      ▇▏◥▇◣┊◢▇◤▕▇
                      ▇▏▃▆▅▎▅▆▃▕▇
@@ -79,12 +70,6 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
        P๏şşIßLY şYЙcђr๏ЙI乙єđ ßY ┼ђIş GI┼ђЦß . 
           ♥️♥️♥️ ßєş┼ ๏F LЦcK  ♥️♥️♥️
       ♥️♥️ rąM乙ąЙ MЦßąrąK ┼๏ єVєrY ß๏đY  ♥️♥️
-\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
-\033[1;96mInstagram \033[1;93m: \033[1: itx_muskan_yr
-\033[1;96mFacebook  \033[1;93m: \033[1: komail.khan.3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/komailkhan
-\033[1;91m======================================="""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -104,16 +89,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m
- ██ ▄█▀ ▒█████   ███▄ ▄███▓ ▄▄▄       ██▓ ██▓    
- ██▄█▒ ▒██▒  ██▒▓██▒▀█▀ ██▒▒████▄    ▓██▒▓██▒    
-▓███▄░ ▒██░  ██▒▓██    ▓██░▒██  ▀█▄  ▒██▒▒██░    
-▓██ █▄ ▒██   ██░▒██    ▒██ ░██▄▄▄▄██ ░██░▒██░    
-▒██▒ █▄░ ████▓▒░▒██▒   ░██▒ ▓█   ▓██▒░██░░██████▒
-▒ ▒▒ ▓▒░ ▒░▒░▒░ ░ ▒░   ░  ░ ▒▒   ▓▒█░░▓  ░ ▒░▓  ░
-░ ░▒ ▒░  ░ ▒ ▒░ ░  ░      ░  ▒   ▒▒ ░ ▒ ░░ ░ ▒  ░
-░ ░░ ░ ░ ░ ░ ▒  ░      ░     ░   ▒    ▒ ░  ░ ░   
-░  ░       ░ ░         ░         ░  ░ ░      ░  ░
-                        KOMAIL
+
                      ▇◤▔▔▔▔▔▔▔◥▇
                      ▇▏◥▇◣┊◢▇◤▕▇
                      ▇▏▃▆▅▎▅▆▃▕▇
@@ -122,16 +98,12 @@ print  """\033[1;91m
                      ▇▇◣◥▅▅▅◤◢▇▇
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
-                   WhatsApp : 03124788959
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
-\033[1;96mInstagram \033[1;93m: \033[1;92mitx_muskan_yr
-\033[1;96mFacebook  \033[1;93m: \033[1;92m komail.khan.3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/komailkhan
+                   
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "komail"
-CorrectPassword = "khan"
+CorrectUsername = "shafo"
+CorrectPassword = "programar"
 
 loop = 'true'
 while (loop == 'true'):
@@ -143,10 +115,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ ')
+            os.system('xdg-open  ')
     else:
         print "Wrong Username"
-        os.system('xdg-open  https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ ')
+        os.system('xdg-open   ')
 
 def login():
 	os.system('clear')
